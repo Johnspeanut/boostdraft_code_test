@@ -6,10 +6,10 @@
 -  Nesting of elements within each other must be well nested.
 Besides the aforementioned conditions, I think a valid XML should also make sure that all CDATAs are valid if it has and all tag names are valid.
 ### 2.<a href="https://www.w3schools.com/xml/xml_elements.asp" target="_blank"> Additional conditions</a>
--  Start with a letter or underscore
--  Cannot start with the letters xml(or XML, or Xml, etc)
--  Can contain letters, digits, hyphens, underscores, and periods
--  Cannot contain spaces
+-  Tag name should start with a letter or underscore
+-  Tag name cannot start with the letters xml(or XML, or Xml, etc)
+-  Tag name can contain letters, digits, hyphens, underscores, and periods
+-  Tag name cannot contain spaces
 
 ## File Structure
 The repository includes TagValidator folder and TAgValidator.Tests foler. TagValidator.cs is the main file for execution of validating XML string, while TagValidator_DetermineXml.cs, TagVAlidator_IsElementMatched.cs, TagVAlidator_isValidCDATA.cs, and TagVAlidator_IsVAlidTAgName.cs are corresponding unit test files.
