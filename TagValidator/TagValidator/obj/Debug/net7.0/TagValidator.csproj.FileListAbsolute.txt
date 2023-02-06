@@ -1,0 +1,12 @@
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/bin/Debug/net7.0/TagValidator.deps.json
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/bin/Debug/net7.0/TagValidator.dll
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/bin/Debug/net7.0/TagValidator.pdb
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/obj/Debug/net7.0/TagValidator.csproj.AssemblyReference.cache
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/obj/Debug/net7.0/TagValidator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/obj/Debug/net7.0/TagValidator.AssemblyInfoInputs.cache
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/obj/Debug/net7.0/TagValidator.AssemblyInfo.cs
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/obj/Debug/net7.0/TagValidator.csproj.CoreCompileInputs.cache
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/obj/Debug/net7.0/TagValidator.dll
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/obj/Debug/net7.0/refint/TagValidator.dll
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/obj/Debug/net7.0/TagValidator.pdb
+/Users/qiongpeng/Documents/jobs/coding/vo/boostdraft/boostdraft_code_test/TagValidator/TagValidator/obj/Debug/net7.0/ref/TagValidator.dll
